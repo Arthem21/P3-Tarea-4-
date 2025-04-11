@@ -1,0 +1,5 @@
+selenium==4.31.0
+pytest-html==4.1.1
+
+
+Driver= Microsoft Edge Web Driver
